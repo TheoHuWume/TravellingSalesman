@@ -1,0 +1,99 @@
+- !!com.model.City
+   name: "Nice"
+   latitude: 43.42
+   longitude: 7.16
+   
+- !!com.model.City
+   name: "Marseille"
+   latitude: 43.18
+   longitude: 5.22
+   
+- !!com.model.City
+   name: "Caen"
+   latitude: 49.11
+   longitude: -0.62
+   
+- !!com.model.City
+   name: "Brest"
+   latitude: 48.4
+   longitude: -4.48
+   
+- !!com.model.City
+   name: "Toulouse"
+   latitude: 43.37
+   longitude: 1.27
+
+- !!com.model.City
+   name: "Bordeaux"
+   latitude: 44.5
+   longitude: -0.74
+
+- !!com.model.City
+   name: "Rennes"
+   latitude: 48.06
+   longitude: -1.8
+
+- !!com.model.City
+   name: "Grenoble"
+   latitude: 45.11
+   longitude: 5.43
+
+- !!com.model.City
+   name: "Nantes"
+   latitude: 47.14
+   longitude: -1.75
+
+- !!com.model.City
+   name: "Angers"
+   latitude: 47.29
+   longitude: -0.72
+
+- !!com.model.City
+   name: "Nancy"
+   latitude: 48.42
+   longitude: 6.12
+
+- !!com.model.City
+   name: "Metz"
+   latitude: 49.07
+   longitude: 6.11
+
+- !!com.model.City
+   name: "Lille"
+   latitude: 50.39
+   longitude: 3.05
+
+- !!com.model.City
+   name: "Biarritz"
+   latitude: 43.48
+   longitude: -1.56
+
+- !!com.model.City
+   name: "Perpignan"
+   latitude: 42.42
+   longitude: 2.54
+
+- !!com.model.City
+   name: "Strasbourg"
+   latitude: 48.35
+   longitude: 7.45
+
+- !!com.model.City
+   name: "Lyon"
+   latitude: 45.46
+   longitude: 4.5
+
+- !!com.model.City
+   name: "Le Mans"
+   latitude: 48
+   longitude: 0.12
+
+- !!com.model.City
+   name: "Paris"
+   latitude: 48.52
+   longitude: 2.2
+
+- !!com.model.City
+   name: "Rouen"
+   latitude: 49.26
+   longitude: 1.05
